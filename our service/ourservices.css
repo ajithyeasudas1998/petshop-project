@@ -1,0 +1,92 @@
+.body{
+    background-color: yellow;
+}
+.topbox{
+    height: 100px;
+    width: auto;
+    color: bisque;
+    text-align: center
+    
+}
+.heading{
+    text-align: center;
+    margin-top: 20px;
+    background-color: blueviolet;
+}
+.mainbox{
+    position: relative;
+    height: 500px;
+    width: auto;
+}
+.mainheading{
+    position: absolute;
+    color: grey;
+    top: 10px;
+    left: 600px;
+    font-size: 60px;
+}
+.contentmain{
+    padding-top: 0px;
+    padding-left: 10px;
+}
+.content1{
+    position: absolute;
+    top: 210px;
+    left: 400px;
+    color: grey;
+}
+.content2{
+    position: absolute;
+    top: 210px;
+    left: 720px;
+    color: grey;
+}
+.content3{
+    position: absolute;
+    top: 210px;
+    left: 1020px;
+    color: grey;
+}
+.navbar{
+    position: relative;
+    height: 100px;
+    width: 1340px;
+}
+.homebutton{
+    position: absolute;
+    margin-left: 1020px;
+   
+}
+.nav_home_button{
+    padding: 19px;
+    width: 95px;
+    color: grey;
+    border: none;
+    border-radius: 20px;
+    background-color: transparent;
+}
+.productbutton{
+    position: absolute;
+    margin-left: 1160px; 
+    
+}
+.nav_product_button{
+    padding: 17px;
+    width: 155px;
+    color: gray;
+    border: none;
+    border-radius: 20px;
+    background-color: transparent;
+}
+.nav_home_button:hover{
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+.nav_product_button:hover{
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+
+
+
+
